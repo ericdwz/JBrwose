@@ -1,1 +1,1 @@
-# JBrwose
+# JBrowse
